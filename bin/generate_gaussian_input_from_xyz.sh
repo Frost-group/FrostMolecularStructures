@@ -1,5 +1,5 @@
 METHOD="pbe1pbe"
-BASIS="ccpvtz"
+BASIS="cc-pvtz"
 
 for f
 do 
